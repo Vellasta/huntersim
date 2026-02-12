@@ -210,5 +210,5 @@ Don't touch the raid sim until the individual sim is ready for launch; anything 
  - Import the individual sim's css file from `ui/raid/index.scss`.
  - Update `ui/raid/presets.ts` to include a constructor factory in the `specSimFactories` variable and add configurations for new Players in the `playerPresets` variable.
 
-# Deployment
+# Deployment 
 Thanks to the workflow defined in `.github/workflows/deploy.yml`, pushes to `master` automatically build and deploy a new site so there's nothing to do here. Sit back and appreciate your new sim!
