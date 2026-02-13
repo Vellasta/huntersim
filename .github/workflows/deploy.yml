@@ -45,7 +45,7 @@ jobs:
             folder: dist/classic
             target-folder: classic
             single-commit: true
-            repo-token: ${{ secrets.DEPLOY_REPO_TOKEN }}
+            token: ${{ secrets.DEPLOY_REPO_TOKEN }}
 
       - name: Deploy for GH Pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4
