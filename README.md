@@ -77,6 +77,9 @@ $(echo $CLASSIC_CMD) make test
 
 # Host a local site
 $(echo $CLASSIC_CMD) make host
+
+# Single command to build and deploy local site
+docker build --tag wowsims-classic . && docker run --rm -v $(pwd):/classic wowsims-classic npm install && docker run --rm -it -p 8080:8080 -v $(pwd):/classic wowsims-classic make host
 ```
 
 ## Windows

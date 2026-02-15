@@ -46,6 +46,7 @@ $(OUT_DIR)/bundle/.dirstamp: \
   ui/core/index.ts \
   ui/core/proto/api.ts
 	npx tsc --noEmit
+	npm install -D tsx
 	npx tsx vite.build-workers.ts
 	npx vite build
 	touch $@
