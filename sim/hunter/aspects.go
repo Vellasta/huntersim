@@ -9,7 +9,7 @@ import (
 
 // Utility function to create an Improved Hawk Aura
 func (hunter *Hunter) createImprovedHawkAura(auraLabel string, actionID core.ActionID) *core.Aura {
-	bonusMultiplier := 1.3
+	bonusMultiplier := 1 + 0.03 * float64(hunter.Talents.ImprovedAspectOfTheHawk)
 	return hunter.GetOrRegisterAura(core.Aura{
 		Label:    auraLabel,
 		ActionID: actionID,
@@ -48,7 +48,7 @@ func (hunter *Hunter) getMaxHawkRank() int {
 
 func (hunter *Hunter) getAspectOfTheHawkSpellConfig(rank int) core.SpellConfig {
 	var impHawkAura *core.Aura
-	improvedHawkProcChance := 0.01 * float64(hunter.Talents.ImprovedAspectOfTheHawk)
+	improvedHawkProcChance := 0.1
 
 	spellIds := [8]int32{0, 13165, 14318, 14319, 14320, 14321, 14322, 25296}
 	levels := [8]int{0, 10, 18, 28, 38, 48, 58, 60}
@@ -77,9 +77,9 @@ func (hunter *Hunter) getAspectOfTheHawkSpellConfig(rank int) core.SpellConfig {
 			aura.Unit.AddStatDynamic(sim, stats.RangedAttackPower, -rap * hunter.AspectOfTheHawkAPMultiplier)
 		},
 		OnSpellHitDealt: func(aura *core.Aura, sim *core.Simulation, spell *core.Spell, result *core.SpellResult) {
-			if !spell.ProcMask.Matches(core.ProcMaskRangedAuto) {
-				return
-			}
+			// if !spell.ProcMask.Matches(core.ProcMaskRangedAuto) {
+			// 	return
+			// }
 
 			if impHawkAura != nil && sim.Proc(improvedHawkProcChance, "Imp Aspect of the Hawk") {
 				impHawkAura.Activate(sim)

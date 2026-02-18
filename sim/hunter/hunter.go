@@ -22,6 +22,7 @@ const (
 	SpellCode_HunterNone int32 = iota
 
 	// Shots
+	SpellCode_HunterSteadyShot
 	SpellCode_HunterAimedShot
 	SpellCode_HunterArcaneShot
 	SpellCode_HunterMultiShot
@@ -86,6 +87,7 @@ type Hunter struct {
 	curQueueAura       *core.Aura
 	curQueuedAutoSpell *core.Spell
 
+	SteadyShot 		*core.Spell
 	AimedShot       *core.Spell
 	ArcaneShot      *core.Spell
 	ExplosiveTrap   *core.Spell
@@ -152,6 +154,8 @@ func (hunter *Hunter) Initialize() {
 	arcaneShotTimer := hunter.NewTimer()
 
 	hunter.registerSerpentStingSpell()
+
+	hunter.registerSteadyShotSpell()
 
 	hunter.registerArcaneShotSpell(arcaneShotTimer)
 	hunter.registerAimedShotSpell(arcaneShotTimer)

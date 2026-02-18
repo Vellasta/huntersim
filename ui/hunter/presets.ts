@@ -33,6 +33,7 @@ import {
 } from '../core/proto/hunter.js';
 import { SavedTalents } from '../core/proto/ui.js';
 import P1APL from './apls/p1.apl.json';
+import P2APL from './apls/p2.apl.json';
 import P0BISGear from './gear_sets/p0.bis.gear.json';
 import P1BISGear from './gear_sets/p1.bis.gear.json';
 
@@ -57,12 +58,14 @@ export const DefaultGear = GearP0BIS;
 ///////////////////////////////////////////////////////////////////////////
 
 export const APLP1 = PresetUtils.makePresetAPLRotation('Marksmanship', P1APL);
+export const APLP2 = PresetUtils.makePresetAPLRotation('Marksmanship (Steady Shot)', P2APL);
 
 export const APLPresets = {
-	[Phase.Phase1]: [APLP1],
+	[Phase.Phase1]: [APLP1, APLP2],
+
 };
 
-export const DefaultAPL = APLPresets[Phase.Phase1][0];
+export const DefaultAPL = APLPresets[Phase.Phase1][1];
 
 ///////////////////////////////////////////////////////////////////////////
 //                                 Talent Presets
