@@ -34,7 +34,8 @@ func (hunter *Hunter) getMultiShotConfig(rank int, timer *core.Timer) core.Spell
 		Cast: core.CastConfig{
 			DefaultCast: core.Cast{
 				GCD:      core.GCDDefault,
-				CastTime: time.Millisecond * 500,
+				BaseCastTime: time.Millisecond * 500,
+				CastTime: 0,
 			},
 			ModifyCast: func(sim *core.Simulation, spell *core.Spell, cast *core.Cast) {
 				cast.CastTime = spell.CastTime()
@@ -46,7 +47,7 @@ func (hunter *Hunter) getMultiShotConfig(rank int, timer *core.Timer) core.Spell
 				Duration: time.Second * 10,
 			},
 			CastTime: func(spell *core.Spell) time.Duration {
-				return time.Duration(float64(spell.DefaultCast.CastTime) / hunter.RangedSwingSpeed())
+				return time.Duration(float64(spell.DefaultCast.BaseCastTime) + float64(spell.DefaultCast.CastTime) / hunter.RangedSwingSpeed())
 			},
 		},
 		ExtraCastCondition: func(sim *core.Simulation, target *core.Unit) bool {

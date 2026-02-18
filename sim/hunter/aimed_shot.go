@@ -31,7 +31,8 @@ func (hunter *Hunter) getAimedShotConfig(rank int, timer *core.Timer) core.Spell
 		Cast: core.CastConfig{
 			DefaultCast: core.Cast{
 				GCD:      core.GCDDefault,
-				CastTime: time.Millisecond * 3500,
+				BaseCastTime: time.Millisecond * 500,
+				CastTime: time.Millisecond * 3000,
 			},
 			CD: core.Cooldown{
 				Timer:    timer,
@@ -43,7 +44,7 @@ func (hunter *Hunter) getAimedShotConfig(rank int, timer *core.Timer) core.Spell
 			},
 			IgnoreHaste: true, // Hunter GCD is locked at 1.5s
 			CastTime: func(spell *core.Spell) time.Duration {
-				return time.Duration(float64(spell.DefaultCast.CastTime) / hunter.RangedSwingSpeed())
+				return time.Duration(float64(spell.DefaultCast.BaseCastTime) + float64(spell.DefaultCast.CastTime) / hunter.RangedSwingSpeed())
 			},
 		},
 		ExtraCastCondition: func(sim *core.Simulation, target *core.Unit) bool {

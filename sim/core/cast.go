@@ -48,6 +48,9 @@ type Cast struct {
 	// The amount of time between the call to spell.Cast() and when the spell
 	// effects are invoked.
 	CastTime time.Duration
+
+	// Cast time that is unaffected by haste effects (mainly for hunter shots)
+	BaseCastTime time.Duration
 }
 
 func (cast *Cast) EffectiveTime() time.Duration {
