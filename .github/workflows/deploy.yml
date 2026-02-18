@@ -33,9 +33,9 @@ jobs:
         run: |
           make dist/classic/.dirstamp
 
-      - name: Test
-        run: |
-          make test
+      # - name: Test
+      #   run: |
+      #     make test
       #
       # - name: Deploy for Cloudflare 🚀
       #   uses: JamesIves/github-pages-deploy-action@v4

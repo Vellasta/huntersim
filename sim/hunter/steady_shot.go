@@ -55,7 +55,7 @@ func (hunter *Hunter) getSteadyShotConfig(rank int) core.SpellConfig {
 
 		ApplyEffects: func(sim *core.Simulation, target *core.Unit, spell *core.Spell) {
 			baseDamage := hunter.AutoAttacks.Ranged().CalculateNormalizedWeaponDamage(sim, spell.RangedAttackPower(target, false)) +
-				hunter.AmmoDamageBonus +
+				hunter.NormalizedAmmoDamageBonus +
 				baseDamage
 
 			result := spell.CalcDamage(sim, target, baseDamage, spell.OutcomeRangedHitAndCrit)

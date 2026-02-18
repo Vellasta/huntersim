@@ -123,7 +123,7 @@ func (weapon *Weapon) CalculateAverageWeaponDamage(attackPower float64) float64 
 }
 
 func (weapon *Weapon) CalculateNormalizedWeaponDamage(sim *Simulation, attackPower float64) float64 {
-	return weapon.BaseDamage(sim) + (weapon.NormalizedSwingSpeed*attackPower)/weapon.AttackPowerPerDPS
+	return (weapon.BaseDamage(sim) * weapon.NormalizedSwingSpeed / weapon.SwingSpeed) + (weapon.NormalizedSwingSpeed*attackPower)/weapon.AttackPowerPerDPS
 }
 
 func (unit *Unit) MHWeaponDamage(sim *Simulation, attackPower float64) float64 {
