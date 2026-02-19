@@ -72,9 +72,9 @@ func (hunter *Hunter) getAimedShotConfig(rank int, timer *core.Timer) core.Spell
 }
 
 func (hunter *Hunter) registerAimedShotSpell(timer *core.Timer) {
-	if !hunter.Talents.AimedShot {
-		return
-	}
+	// if !hunter.Talents.AimedShot {
+	// 	return
+	// }
 
 	maxRank := 6
 

@@ -27,9 +27,9 @@ message HunterTalents {
 	int32 efficiency = 18;
 	int32 improved_hunters_mark = 19;
 	int32 lethal_shots = 20;
-	bool aimed_shot = 21;
+	int32 hawk_eye = 21;
 	int32 improved_arcane_shot = 22;
-	int32 hawk_eye = 23;
+	bool steady_shot = 23;
 	int32 improved_serpent_sting = 24;
 	int32 mortal_shots = 25;
 	bool scatter_shot = 26;

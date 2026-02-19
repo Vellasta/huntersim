@@ -68,7 +68,7 @@ func (hunter *Hunter) getSteadyShotConfig(rank int) core.SpellConfig {
 }
 
 func (hunter *Hunter) registerSteadyShotSpell() {
-	if !hunter.Talents.AimedShot {
+	if !hunter.Talents.SteadyShot {
 		return
 	}
 

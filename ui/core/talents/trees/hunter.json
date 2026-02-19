@@ -286,15 +286,17 @@
         "maxPoints": 5
       },
       {
-        "fieldName": "aimedShot",
+        "fieldName": "hawkEye",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
         },
         "spellIds": [
-          19434
+          19498,
+          19499,
+          19500
         ],
-        "maxPoints": 1
+        "maxPoints": 3
       },
       {
         "fieldName": "improvedArcaneShot",
@@ -312,17 +314,15 @@
         "maxPoints": 5
       },
       {
-        "fieldName": "hawkEye",
+        "fieldName": "steadyShot",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
         },
         "spellIds": [
-          19498,
-          19499,
-          19500
+          3035
         ],
-        "maxPoints": 3
+        "maxPoints": 1
       },
       {
         "fieldName": "improvedSerpentSting",
