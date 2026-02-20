@@ -5,6 +5,7 @@
     "talents": [
       {
         "fieldName": "convection",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -20,6 +21,7 @@
       },
       {
         "fieldName": "concussion",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -35,6 +37,7 @@
       },
       {
         "fieldName": "earthsGrasp",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -47,6 +50,7 @@
       },
       {
         "fieldName": "elementalWarding",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -60,6 +64,7 @@
       },
       {
         "fieldName": "callOfFlame",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -73,6 +78,7 @@
       },
       {
         "fieldName": "elementalFocus",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -84,6 +90,7 @@
       },
       {
         "fieldName": "reverberation",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -99,6 +106,7 @@
       },
       {
         "fieldName": "callOfThunder",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -114,6 +122,7 @@
       },
       {
         "fieldName": "improvedFireTotems",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
@@ -126,6 +135,7 @@
       },
       {
         "fieldName": "eyeOfTheStorm",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -139,6 +149,7 @@
       },
       {
         "fieldName": "elementalDevastation",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 3
@@ -152,6 +163,7 @@
       },
       {
         "fieldName": "stormReach",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -164,6 +176,7 @@
       },
       {
         "fieldName": "elementalFury",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -175,6 +188,7 @@
       },
       {
         "fieldName": "lightningMastery",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -194,6 +208,7 @@
       },
       {
         "fieldName": "elementalMastery",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -215,6 +230,7 @@
     "talents": [
       {
         "fieldName": "ancestralKnowledge",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -230,6 +246,7 @@
       },
       {
         "fieldName": "shieldSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -242,6 +259,7 @@
       },
       {
         "fieldName": "guardianTotems",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -254,6 +272,7 @@
       },
       {
         "fieldName": "thunderingStrikes",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -269,6 +288,7 @@
       },
       {
         "fieldName": "improvedGhostWolf",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -281,6 +301,7 @@
       },
       {
         "fieldName": "improvedLightningShield",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 3
@@ -293,6 +314,7 @@
       },
       {
         "fieldName": "enhancingTotems",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -305,6 +327,7 @@
       },
       {
         "fieldName": "twoHandedAxesAndMaces",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -316,6 +339,7 @@
       },
       {
         "fieldName": "anticipation",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -331,6 +355,7 @@
       },
       {
         "fieldName": "flurry",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -350,6 +375,7 @@
       },
       {
         "fieldName": "toughness",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -365,6 +391,7 @@
       },
       {
         "fieldName": "improvedWeaponTotems",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -377,6 +404,7 @@
       },
       {
         "fieldName": "elementalWeapons",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -390,6 +418,7 @@
       },
       {
         "fieldName": "parry",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -401,6 +430,7 @@
       },
       {
         "fieldName": "weaponMastery",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -416,6 +446,7 @@
       },
       {
         "fieldName": "stormstrike",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -437,6 +468,7 @@
     "talents": [
       {
         "fieldName": "improvedHealingWave",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -452,6 +484,7 @@
       },
       {
         "fieldName": "tidalFocus",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -467,6 +500,7 @@
       },
       {
         "fieldName": "improvedReincarnation",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -479,6 +513,7 @@
       },
       {
         "fieldName": "ancestralHealing",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -492,6 +527,7 @@
       },
       {
         "fieldName": "totemicFocus",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -507,6 +543,7 @@
       },
       {
         "fieldName": "naturesGuidance",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -520,6 +557,7 @@
       },
       {
         "fieldName": "healingFocus",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -535,6 +573,7 @@
       },
       {
         "fieldName": "totemicMastery",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -546,6 +585,7 @@
       },
       {
         "fieldName": "healingGrace",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -559,6 +599,7 @@
       },
       {
         "fieldName": "restorativeTotems",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -574,6 +615,7 @@
       },
       {
         "fieldName": "tidalMastery",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -589,6 +631,7 @@
       },
       {
         "fieldName": "healingWay",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -602,6 +645,7 @@
       },
       {
         "fieldName": "naturesSwiftness",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -613,6 +657,7 @@
       },
       {
         "fieldName": "purification",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -628,6 +673,7 @@
       },
       {
         "fieldName": "manaTideTotem",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1

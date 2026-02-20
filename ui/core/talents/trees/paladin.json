@@ -5,6 +5,7 @@
     "talents": [
       {
         "fieldName": "divineStrength",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -20,6 +21,7 @@
       },
       {
         "fieldName": "divineIntellect",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -35,6 +37,7 @@
       },
       {
         "fieldName": "spiritualFocus",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -50,6 +53,7 @@
       },
       {
         "fieldName": "improvedSealOfRighteousness",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -65,6 +69,7 @@
       },
       {
         "fieldName": "healingLight",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -78,6 +83,7 @@
       },
       {
         "fieldName": "consecration",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -89,6 +95,7 @@
       },
       {
         "fieldName": "improvedLayOnHands",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -101,6 +108,7 @@
       },
       {
         "fieldName": "unyieldingFaith",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -113,6 +121,7 @@
       },
       {
         "fieldName": "illumination",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -128,6 +137,7 @@
       },
       {
         "fieldName": "improvedBlessingOfWisdom",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -140,6 +150,7 @@
       },
       {
         "fieldName": "divineFavor",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -155,6 +166,7 @@
       },
       {
         "fieldName": "lastingJudgement",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -168,6 +180,7 @@
       },
       {
         "fieldName": "holyPower",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -183,6 +196,7 @@
       },
       {
         "fieldName": "holyShock",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -204,6 +218,7 @@
     "talents": [
       {
         "fieldName": "improvedDevotionAura",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -219,6 +234,7 @@
       },
       {
         "fieldName": "redoubt",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -234,6 +250,7 @@
       },
       {
         "fieldName": "precision",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -247,6 +264,7 @@
       },
       {
         "fieldName": "guardiansFavor",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -259,6 +277,7 @@
       },
       {
         "fieldName": "toughness",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 3
@@ -274,6 +293,7 @@
       },
       {
         "fieldName": "blessingOfKings",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -285,6 +305,7 @@
       },
       {
         "fieldName": "improvedRighteousFury",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -298,6 +319,7 @@
       },
       {
         "fieldName": "shieldSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -315,6 +337,7 @@
       },
       {
         "fieldName": "anticipation",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -330,6 +353,7 @@
       },
       {
         "fieldName": "improvedHammerOfJustice",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -343,6 +367,7 @@
       },
       {
         "fieldName": "improvedConcentrationAura",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -356,6 +381,7 @@
       },
       {
         "fieldName": "blessingOfSanctuary",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -367,6 +393,7 @@
       },
       {
         "fieldName": "reckoning",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -382,6 +409,7 @@
       },
       {
         "fieldName": "oneHandedWeaponSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -397,6 +425,7 @@
       },
       {
         "fieldName": "holyShield",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -418,6 +447,7 @@
     "talents": [
       {
         "fieldName": "improvedBlessingOfMight",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -433,6 +463,7 @@
       },
       {
         "fieldName": "benediction",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -448,6 +479,7 @@
       },
       {
         "fieldName": "improvedJudgement",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -460,6 +492,7 @@
       },
       {
         "fieldName": "improvedSealOfTheCrusader",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -473,6 +506,7 @@
       },
       {
         "fieldName": "deflection",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -488,6 +522,7 @@
       },
       {
         "fieldName": "vindication",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -501,6 +536,7 @@
       },
       {
         "fieldName": "conviction",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -516,6 +552,7 @@
       },
       {
         "fieldName": "sealOfCommand",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -527,6 +564,7 @@
       },
       {
         "fieldName": "pursuitOfJustice",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -539,6 +577,7 @@
       },
       {
         "fieldName": "eyeForAnEye",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
@@ -551,6 +590,7 @@
       },
       {
         "fieldName": "improvedRetributionAura",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -563,6 +603,7 @@
       },
       {
         "fieldName": "twoHandedWeaponSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -576,6 +617,7 @@
       },
       {
         "fieldName": "sanctityAura",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -587,6 +629,7 @@
       },
       {
         "fieldName": "vengeance",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 1
@@ -606,6 +649,7 @@
       },
       {
         "fieldName": "repentance",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1

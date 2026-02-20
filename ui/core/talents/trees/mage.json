@@ -5,6 +5,7 @@
     "talents": [
       {
         "fieldName": "arcaneSubtlety",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 0
@@ -17,6 +18,7 @@
       },
       {
         "fieldName": "arcaneFocus",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -32,6 +34,7 @@
       },
       {
         "fieldName": "improvedArcaneMissiles",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -47,6 +50,7 @@
       },
       {
         "fieldName": "wandSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -59,6 +63,7 @@
       },
       {
         "fieldName": "magicAbsorption",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -74,6 +79,7 @@
       },
       {
         "fieldName": "arcaneConcentration",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -89,6 +95,7 @@
       },
       {
         "fieldName": "magicAttunement",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -101,6 +108,7 @@
       },
       {
         "fieldName": "improvedArcaneExplosion",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -114,6 +122,7 @@
       },
       {
         "fieldName": "arcaneResilience",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -125,6 +134,7 @@
       },
       {
         "fieldName": "improvedManaShield",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
@@ -137,6 +147,7 @@
       },
       {
         "fieldName": "improvedCounterspell",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -149,6 +160,7 @@
       },
       {
         "fieldName": "arcaneMeditation",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 3
@@ -162,6 +174,7 @@
       },
       {
         "fieldName": "presenceOfMind",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -173,6 +186,7 @@
       },
       {
         "fieldName": "arcaneMind",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -192,6 +206,7 @@
       },
       {
         "fieldName": "arcaneInstability",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 1
@@ -209,6 +224,7 @@
       },
       {
         "fieldName": "arcanePower",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -230,6 +246,7 @@
     "talents": [
       {
         "fieldName": "improvedFireball",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -245,6 +262,7 @@
       },
       {
         "fieldName": "impact",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -260,6 +278,7 @@
       },
       {
         "fieldName": "ignite",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -275,6 +294,7 @@
       },
       {
         "fieldName": "flameThrowing",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -287,6 +307,7 @@
       },
       {
         "fieldName": "improvedFireBlast",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -300,6 +321,7 @@
       },
       {
         "fieldName": "incinerate",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -312,6 +334,7 @@
       },
       {
         "fieldName": "improvedFlamestrike",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -325,6 +348,7 @@
       },
       {
         "fieldName": "pyroblast",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -336,6 +360,7 @@
       },
       {
         "fieldName": "burningSoul",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -348,6 +373,7 @@
       },
       {
         "fieldName": "improvedScorch",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
@@ -361,6 +387,7 @@
       },
       {
         "fieldName": "improvedFireWard",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -373,6 +400,7 @@
       },
       {
         "fieldName": "masterOfElements",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 3
@@ -386,6 +414,7 @@
       },
       {
         "fieldName": "criticalMass",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -399,6 +428,7 @@
       },
       {
         "fieldName": "blastWave",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -414,6 +444,7 @@
       },
       {
         "fieldName": "firePower",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -429,6 +460,7 @@
       },
       {
         "fieldName": "combustion",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -450,6 +482,7 @@
     "talents": [
       {
         "fieldName": "frostWarding",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 0
@@ -462,6 +495,7 @@
       },
       {
         "fieldName": "improvedFrostbolt",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -477,6 +511,7 @@
       },
       {
         "fieldName": "elementalPrecision",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -490,6 +525,7 @@
       },
       {
         "fieldName": "iceShards",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -505,6 +541,7 @@
       },
       {
         "fieldName": "frostbite",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -518,6 +555,7 @@
       },
       {
         "fieldName": "improvedFrostNova",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -530,6 +568,7 @@
       },
       {
         "fieldName": "permafrost",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 3
@@ -543,6 +582,7 @@
       },
       {
         "fieldName": "piercingIce",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -556,6 +596,7 @@
       },
       {
         "fieldName": "coldSnap",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -567,6 +608,7 @@
       },
       {
         "fieldName": "improvedBlizzard",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -580,6 +622,7 @@
       },
       {
         "fieldName": "arcticReach",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
@@ -592,6 +635,7 @@
       },
       {
         "fieldName": "frostChanneling",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -605,6 +649,7 @@
       },
       {
         "fieldName": "shatter",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -624,6 +669,7 @@
       },
       {
         "fieldName": "iceBlock",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -635,6 +681,7 @@
       },
       {
         "fieldName": "improvedConeOfCold",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -648,6 +695,7 @@
       },
       {
         "fieldName": "wintersChill",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -663,6 +711,7 @@
       },
       {
         "fieldName": "iceBarrier",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1

@@ -5,6 +5,7 @@
     "talents": [
       {
         "fieldName": "improvedEviscerate",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 0
@@ -18,6 +19,7 @@
       },
       {
         "fieldName": "remorselessAttacks",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -30,6 +32,7 @@
       },
       {
         "fieldName": "malice",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -45,6 +48,7 @@
       },
       {
         "fieldName": "ruthlessness",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -58,6 +62,7 @@
       },
       {
         "fieldName": "murder",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -70,6 +75,7 @@
       },
       {
         "fieldName": "improvedSliceAndDice",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 3
@@ -83,6 +89,7 @@
       },
       {
         "fieldName": "relentlessStrikes",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -94,6 +101,7 @@
       },
       {
         "fieldName": "improvedExposeArmor",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -106,6 +114,7 @@
       },
       {
         "fieldName": "lethality",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -125,6 +134,7 @@
       },
       {
         "fieldName": "vilePoisons",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -140,6 +150,7 @@
       },
       {
         "fieldName": "improvedPoisons",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -155,6 +166,7 @@
       },
       {
         "fieldName": "coldBlood",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -166,6 +178,7 @@
       },
       {
         "fieldName": "improvedKidneyShot",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -179,6 +192,7 @@
       },
       {
         "fieldName": "sealFate",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 1
@@ -198,6 +212,7 @@
       },
       {
         "fieldName": "vigor",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -215,6 +230,7 @@
     "talents": [
       {
         "fieldName": "improvedGouge",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 0
@@ -228,6 +244,7 @@
       },
       {
         "fieldName": "improvedSinisterStrike",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -240,6 +257,7 @@
       },
       {
         "fieldName": "lightningReflexes",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -255,6 +273,7 @@
       },
       {
         "fieldName": "improvedBackstab",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -268,6 +287,7 @@
       },
       {
         "fieldName": "deflection",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -283,6 +303,7 @@
       },
       {
         "fieldName": "precision",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -298,6 +319,7 @@
       },
       {
         "fieldName": "endurance",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -310,6 +332,7 @@
       },
       {
         "fieldName": "riposte",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -325,6 +348,7 @@
       },
       {
         "fieldName": "improvedSprint",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -337,6 +361,7 @@
       },
       {
         "fieldName": "improvedKick",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
@@ -349,6 +374,7 @@
       },
       {
         "fieldName": "daggerSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -364,6 +390,7 @@
       },
       {
         "fieldName": "dualWieldSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -383,6 +410,7 @@
       },
       {
         "fieldName": "maceSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -398,6 +426,7 @@
       },
       {
         "fieldName": "bladeFlurry",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -409,6 +438,7 @@
       },
       {
         "fieldName": "swordSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -424,6 +454,7 @@
       },
       {
         "fieldName": "fistWeaponSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 3
@@ -439,6 +470,7 @@
       },
       {
         "fieldName": "weaponExpertise",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 1
@@ -455,6 +487,7 @@
       },
       {
         "fieldName": "aggression",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -468,6 +501,7 @@
       },
       {
         "fieldName": "adrenalineRush",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -485,6 +519,7 @@
     "talents": [
       {
         "fieldName": "masterOfDeception",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -500,6 +535,7 @@
       },
       {
         "fieldName": "opportunity",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -515,6 +551,7 @@
       },
       {
         "fieldName": "sleightOfHand",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -527,6 +564,7 @@
       },
       {
         "fieldName": "elusiveness",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -539,6 +577,7 @@
       },
       {
         "fieldName": "camouflage",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -554,6 +593,7 @@
       },
       {
         "fieldName": "initiative",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -567,6 +607,7 @@
       },
       {
         "fieldName": "ghostlyStrike",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -578,6 +619,7 @@
       },
       {
         "fieldName": "improvedAmbush",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -591,6 +633,7 @@
       },
       {
         "fieldName": "setup",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
@@ -604,6 +647,7 @@
       },
       {
         "fieldName": "improvedSap",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -617,6 +661,7 @@
       },
       {
         "fieldName": "serratedBlades",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -630,6 +675,7 @@
       },
       {
         "fieldName": "heightenedSenses",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -642,6 +688,7 @@
       },
       {
         "fieldName": "preparation",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -653,6 +700,7 @@
       },
       {
         "fieldName": "dirtyDeeds",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -665,6 +713,7 @@
       },
       {
         "fieldName": "hemorrhage",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 3
@@ -680,6 +729,7 @@
       },
       {
         "fieldName": "deadliness",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -695,6 +745,7 @@
       },
       {
         "fieldName": "premeditation",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1

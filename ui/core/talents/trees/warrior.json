@@ -5,6 +5,7 @@
     "talents": [
       {
         "fieldName": "improvedHeroicStrike",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 0
@@ -18,6 +19,7 @@
       },
       {
         "fieldName": "deflection",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -33,6 +35,7 @@
       },
       {
         "fieldName": "improvedRend",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -46,6 +49,7 @@
       },
       {
         "fieldName": "improvedCharge",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -58,6 +62,7 @@
       },
       {
         "fieldName": "tacticalMastery",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -73,6 +78,7 @@
       },
       {
         "fieldName": "improvedThunderClap",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 3
@@ -86,6 +92,7 @@
       },
       {
         "fieldName": "improvedOverpower",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -98,6 +105,7 @@
       },
       {
         "fieldName": "angerManagement",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -113,6 +121,7 @@
       },
       {
         "fieldName": "deepWounds",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -130,6 +139,7 @@
       },
       {
         "fieldName": "twoHandedWeaponSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -145,6 +155,7 @@
       },
       {
         "fieldName": "impale",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -161,6 +172,7 @@
       },
       {
         "fieldName": "axeSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -176,6 +188,7 @@
       },
       {
         "fieldName": "sweepingStrikes",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -187,6 +200,7 @@
       },
       {
         "fieldName": "maceSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -202,6 +216,7 @@
       },
       {
         "fieldName": "swordSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 3
@@ -217,6 +232,7 @@
       },
       {
         "fieldName": "polearmSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 0
@@ -232,6 +248,7 @@
       },
       {
         "fieldName": "improvedHamstring",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -245,6 +262,7 @@
       },
       {
         "fieldName": "mortalStrike",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -266,6 +284,7 @@
     "talents": [
       {
         "fieldName": "boomingVoice",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -281,6 +300,7 @@
       },
       {
         "fieldName": "cruelty",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -296,6 +316,7 @@
       },
       {
         "fieldName": "improvedDemoralizingShout",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -311,6 +332,7 @@
       },
       {
         "fieldName": "unbridledWrath",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -326,6 +348,7 @@
       },
       {
         "fieldName": "improvedCleave",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -339,6 +362,7 @@
       },
       {
         "fieldName": "piercingHowl",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -350,6 +374,7 @@
       },
       {
         "fieldName": "bloodCraze",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -363,6 +388,7 @@
       },
       {
         "fieldName": "improvedBattleShout",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -378,6 +404,7 @@
       },
       {
         "fieldName": "dualWieldSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
@@ -393,6 +420,7 @@
       },
       {
         "fieldName": "improvedExecute",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -405,6 +433,7 @@
       },
       {
         "fieldName": "enrage",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -420,6 +449,7 @@
       },
       {
         "fieldName": "improvedSlam",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -435,6 +465,7 @@
       },
       {
         "fieldName": "deathWish",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -446,6 +477,7 @@
       },
       {
         "fieldName": "improvedIntercept",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 3
@@ -458,6 +490,7 @@
       },
       {
         "fieldName": "improvedBerserkerRage",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 0
@@ -470,6 +503,7 @@
       },
       {
         "fieldName": "flurry",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -489,6 +523,7 @@
       },
       {
         "fieldName": "bloodthirst",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -510,6 +545,7 @@
     "talents": [
       {
         "fieldName": "shieldSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -525,6 +561,7 @@
       },
       {
         "fieldName": "anticipation",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -540,6 +577,7 @@
       },
       {
         "fieldName": "improvedBloodrage",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -552,6 +590,7 @@
       },
       {
         "fieldName": "toughness",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -567,6 +606,7 @@
       },
       {
         "fieldName": "ironWill",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 3
@@ -582,6 +622,7 @@
       },
       {
         "fieldName": "lastStand",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -597,6 +638,7 @@
       },
       {
         "fieldName": "improvedShieldBlock",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -614,6 +656,7 @@
       },
       {
         "fieldName": "improvedRevenge",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -627,6 +670,7 @@
       },
       {
         "fieldName": "defiance",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -642,6 +686,7 @@
       },
       {
         "fieldName": "improvedSunderArmor",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
@@ -655,6 +700,7 @@
       },
       {
         "fieldName": "improvedDisarm",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -668,6 +714,7 @@
       },
       {
         "fieldName": "improvedTaunt",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -680,6 +727,7 @@
       },
       {
         "fieldName": "improvedShieldWall",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -692,6 +740,7 @@
       },
       {
         "fieldName": "concussionBlow",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -703,6 +752,7 @@
       },
       {
         "fieldName": "improvedShieldBash",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -715,6 +765,7 @@
       },
       {
         "fieldName": "oneHandedWeaponSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -730,6 +781,7 @@
       },
       {
         "fieldName": "shieldSlam",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1

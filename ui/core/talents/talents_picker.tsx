@@ -335,6 +335,7 @@ class TalentPicker<TalentsProto> extends Component {
 	readonly config: TalentConfig<TalentsProto>;
 	private readonly tree: TalentTreePicker<TalentsProto>;
 	private readonly pointsDisplay: HTMLElement;
+	private readonly instance
 
 	private longTouchTimer?: number;
 	private childReqs: TalentReqArrow[];
@@ -358,6 +359,8 @@ class TalentPicker<TalentsProto> extends Component {
 		this.pointsDisplay = document.createElement('span');
 		this.pointsDisplay.classList.add('talent-picker-points');
 		this.rootElem.appendChild(this.pointsDisplay);
+
+		this.instance = tippy(this.rootElem, { content: `Rank ${this.getPoints()}/${this.config.maxPoints}\n${String(this.config.fieldDesc)}`, allowHTML: true, hideOnClick: false});
 
 		this.rootElem.addEventListener('click', event => {
 			event.preventDefault();
@@ -549,6 +552,7 @@ class TalentPicker<TalentsProto> extends Component {
 		if (this.parentReq) {
 			this.parentReq.setReqFufilled(canSetPoints || this.isFull());
 		}
+		this.instance.setContent(`Rank ${this.getPoints()}/${this.config.maxPoints}\n${String(this.config.fieldDesc)}`);
 	}
 }
 
@@ -569,6 +573,8 @@ export type TalentLocation = {
 
 export type TalentConfig<TalentsProto> = {
 	fieldName?: keyof TalentsProto | string;
+
+	fieldDesc: string
 
 	location: TalentLocation;
 

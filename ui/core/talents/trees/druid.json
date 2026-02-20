@@ -5,6 +5,7 @@
     "talents": [
       {
         "fieldName": "improvedWrath",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 0
@@ -20,6 +21,7 @@
       },
       {
         "fieldName": "naturesGrasp",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -31,6 +33,7 @@
       },
       {
         "fieldName": "improvedNaturesGrasp",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -49,6 +52,7 @@
       },
       {
         "fieldName": "improvedEntanglingRoots",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -62,6 +66,7 @@
       },
       {
         "fieldName": "improvedMoonfire",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -77,6 +82,7 @@
       },
       {
         "fieldName": "naturalWeapons",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -92,6 +98,7 @@
       },
       {
         "fieldName": "naturalShapeshifter",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 3
@@ -105,6 +112,7 @@
       },
       {
         "fieldName": "improvedThorns",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -118,6 +126,7 @@
       },
       {
         "fieldName": "omenOfClarity",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -133,6 +142,7 @@
       },
       {
         "fieldName": "naturesReach",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -145,6 +155,7 @@
       },
       {
         "fieldName": "vengeance",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -164,6 +175,7 @@
       },
       {
         "fieldName": "improvedStarfire",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -179,6 +191,7 @@
       },
       {
         "fieldName": "naturesGrace",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -190,6 +203,7 @@
       },
       {
         "fieldName": "moonglow",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -203,6 +217,7 @@
       },
       {
         "fieldName": "moonfury",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 1
@@ -222,6 +237,7 @@
       },
       {
         "fieldName": "moonkinForm",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -239,6 +255,7 @@
     "talents": [
       {
         "fieldName": "ferocity",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -254,6 +271,7 @@
       },
       {
         "fieldName": "feralAggression",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -269,6 +287,7 @@
       },
       {
         "fieldName": "feralInstinct",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -284,6 +303,7 @@
       },
       {
         "fieldName": "brutalImpact",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -296,6 +316,7 @@
       },
       {
         "fieldName": "thickHide",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -311,6 +332,7 @@
       },
       {
         "fieldName": "felineSwiftness",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -323,6 +345,7 @@
       },
       {
         "fieldName": "feralCharge",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -334,6 +357,7 @@
       },
       {
         "fieldName": "sharpenedClaws",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -347,6 +371,7 @@
       },
       {
         "fieldName": "improvedShred",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
@@ -359,6 +384,7 @@
       },
       {
         "fieldName": "predatoryStrikes",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -372,6 +398,7 @@
       },
       {
         "fieldName": "bloodFrenzy",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -388,6 +415,7 @@
       },
       {
         "fieldName": "primalFury",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 3
@@ -400,6 +428,7 @@
       },
       {
         "fieldName": "savageFury",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -412,6 +441,7 @@
       },
       {
         "fieldName": "faerieFireFeral",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -423,6 +453,7 @@
       },
       {
         "fieldName": "heartOfTheWild",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 1
@@ -442,6 +473,7 @@
       },
       {
         "fieldName": "leaderOfThePack",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -459,6 +491,7 @@
     "talents": [
       {
         "fieldName": "improvedMarkOfTheWild",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -474,6 +507,7 @@
       },
       {
         "fieldName": "furor",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -489,6 +523,7 @@
       },
       {
         "fieldName": "improvedHealingTouch",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -504,6 +539,7 @@
       },
       {
         "fieldName": "naturesFocus",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -519,6 +555,7 @@
       },
       {
         "fieldName": "improvedEnrage",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -531,6 +568,7 @@
       },
       {
         "fieldName": "reflection",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -544,6 +582,7 @@
       },
       {
         "fieldName": "insectSwarm",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -555,6 +594,7 @@
       },
       {
         "fieldName": "subtlety",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -570,6 +610,7 @@
       },
       {
         "fieldName": "tranquilSpirit",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -585,6 +626,7 @@
       },
       {
         "fieldName": "improvedRejuvenation",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 3
@@ -598,6 +640,7 @@
       },
       {
         "fieldName": "naturesSwiftness",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -613,6 +656,7 @@
       },
       {
         "fieldName": "giftOfNature",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -632,6 +676,7 @@
       },
       {
         "fieldName": "improvedTranquility",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 3
@@ -644,6 +689,7 @@
       },
       {
         "fieldName": "improvedRegrowth",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -659,6 +705,7 @@
       },
       {
         "fieldName": "swiftmend",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1

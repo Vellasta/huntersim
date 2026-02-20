@@ -5,6 +5,7 @@
     "talents": [
       {
         "fieldName": "suppression",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -20,6 +21,7 @@
       },
       {
         "fieldName": "improvedCorruption",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -35,6 +37,7 @@
       },
       {
         "fieldName": "improvedCurseOfWeakness",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -48,6 +51,7 @@
       },
       {
         "fieldName": "improvedDrainSoul",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -60,6 +64,7 @@
       },
       {
         "fieldName": "improvedLifeTap",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -72,6 +77,7 @@
       },
       {
         "fieldName": "improvedDrainLife",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 3
@@ -87,6 +93,7 @@
       },
       {
         "fieldName": "improvedCurseOfAgony",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -100,6 +107,7 @@
       },
       {
         "fieldName": "felConcentration",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -115,6 +123,7 @@
       },
       {
         "fieldName": "amplifyCurse",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -126,6 +135,7 @@
       },
       {
         "fieldName": "grimReach",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
@@ -138,6 +148,7 @@
       },
       {
         "fieldName": "nightfall",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -150,6 +161,7 @@
       },
       {
         "fieldName": "improvedDrainMana",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 3
@@ -162,6 +174,7 @@
       },
       {
         "fieldName": "siphonLife",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -173,6 +186,7 @@
       },
       {
         "fieldName": "curseOfExhaustion",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -188,6 +202,7 @@
       },
       {
         "fieldName": "improvedCurseOfExhaustion",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 3
@@ -206,6 +221,7 @@
       },
       {
         "fieldName": "shadowMastery",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 1
@@ -225,6 +241,7 @@
       },
       {
         "fieldName": "darkPact",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -242,6 +259,7 @@
     "talents": [
       {
         "fieldName": "improvedHealthstone",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 0
@@ -254,6 +272,7 @@
       },
       {
         "fieldName": "improvedImp",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -267,6 +286,7 @@
       },
       {
         "fieldName": "demonicEmbrace",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -282,6 +302,7 @@
       },
       {
         "fieldName": "improvedHealthFunnel",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -294,6 +315,7 @@
       },
       {
         "fieldName": "improvedVoidwalker",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -307,6 +329,7 @@
       },
       {
         "fieldName": "felIntellect",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -322,6 +345,7 @@
       },
       {
         "fieldName": "improvedSayaad",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -335,6 +359,7 @@
       },
       {
         "fieldName": "felDomination",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -346,6 +371,7 @@
       },
       {
         "fieldName": "felStamina",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -357,6 +383,7 @@
       },
       {
         "fieldName": "masterSummoner",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -373,6 +400,7 @@
       },
       {
         "fieldName": "unholyPower",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -388,6 +416,7 @@
       },
       {
         "fieldName": "improvedSubjugateDemon",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -402,6 +431,7 @@
       },
       {
         "fieldName": "demonicSacrifice",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -413,6 +443,7 @@
       },
       {
         "fieldName": "improvedFirestone",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 3
@@ -425,6 +456,7 @@
       },
       {
         "fieldName": "masterDemonologist",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -444,6 +476,7 @@
       },
       {
         "fieldName": "soulLink",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -459,6 +492,7 @@
       },
       {
         "fieldName": "improvedSpellstone",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 2
@@ -477,6 +511,7 @@
     "talents": [
       {
         "fieldName": "improvedShadowBolt",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -492,6 +527,7 @@
       },
       {
         "fieldName": "cataclysm",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -507,6 +543,7 @@
       },
       {
         "fieldName": "bane",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -522,6 +559,7 @@
       },
       {
         "fieldName": "aftermath",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -537,6 +575,7 @@
       },
       {
         "fieldName": "improvedFirebolt",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -549,6 +588,7 @@
       },
       {
         "fieldName": "improvedLashOfPain",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -560,6 +600,7 @@
       },
       {
         "fieldName": "devastation",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -575,6 +616,7 @@
       },
       {
         "fieldName": "shadowburn",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -586,6 +628,7 @@
       },
       {
         "fieldName": "intensity",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
@@ -598,6 +641,7 @@
       },
       {
         "fieldName": "destructiveReach",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -610,6 +654,7 @@
       },
       {
         "fieldName": "improvedSearingPain",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 3
@@ -625,6 +670,7 @@
       },
       {
         "fieldName": "pyroclasm",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -641,6 +687,7 @@
       },
       {
         "fieldName": "improvedImmolate",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -656,6 +703,7 @@
       },
       {
         "fieldName": "ruin",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -671,6 +719,7 @@
       },
       {
         "fieldName": "emberstorm",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -686,6 +735,7 @@
       },
       {
         "fieldName": "conflagrate",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1

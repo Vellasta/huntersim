@@ -5,6 +5,7 @@
     "talents": [
       {
         "fieldName": "improvedAspectOfTheHawk",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -20,6 +21,7 @@
       },
       {
         "fieldName": "enduranceTraining",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -35,6 +37,7 @@
       },
       {
         "fieldName": "improvedEyesOfTheBeast",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -47,6 +50,7 @@
       },
       {
         "fieldName": "improvedAspectOfTheMonkey",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -62,6 +66,7 @@
       },
       {
         "fieldName": "thickHide",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -75,6 +80,7 @@
       },
       {
         "fieldName": "improvedRevivePet",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 3
@@ -87,6 +93,7 @@
       },
       {
         "fieldName": "pathfinding",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -99,6 +106,7 @@
       },
       {
         "fieldName": "bestialSwiftness",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -110,6 +118,7 @@
       },
       {
         "fieldName": "unleashedFury",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -125,6 +134,7 @@
       },
       {
         "fieldName": "improvedMendPet",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -137,6 +147,7 @@
       },
       {
         "fieldName": "ferocity",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -152,6 +163,7 @@
       },
       {
         "fieldName": "spiritBond",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -164,6 +176,7 @@
       },
       {
         "fieldName": "intimidation",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -175,6 +188,7 @@
       },
       {
         "fieldName": "bestialDiscipline",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 3
@@ -187,6 +201,7 @@
       },
       {
         "fieldName": "frenzy",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -206,6 +221,7 @@
       },
       {
         "fieldName": "bestialWrath",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -227,6 +243,7 @@
     "talents": [
       {
         "fieldName": "improvedConcussiveShot",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -242,6 +259,7 @@
       },
       {
         "fieldName": "efficiency",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -257,6 +275,7 @@
       },
       {
         "fieldName": "improvedHuntersMark",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -272,6 +291,7 @@
       },
       {
         "fieldName": "lethalShots",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -287,6 +307,7 @@
       },
       {
         "fieldName": "hawkEye",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -300,6 +321,7 @@
       },
       {
         "fieldName": "improvedArcaneShot",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -315,6 +337,7 @@
       },
       {
         "fieldName": "steadyShot",
+        "fieldDesc": "<table><tr><td><table width=\"100%\"><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19434/aimed-shot\"><b class=\"whtt-name\">Aimed Shot</b></a></td><th><b class=\"q0\">Rank 1</b></th></tr></table><div class=\"q0\">Talent</div><table width=\"100%\"><tr><td>75 Mana</td><th>8 - 35 yd range</th></tr></table><table width=\"100%\"><tr><td>3 sec cast</td><th>6 sec cooldown</th></tr></table><div class=\"wowhead-tooltip-requirements\">Requires Hunter</div></td></tr></table><table><tr><td><span class=\"wowhead-tooltip-requirements\">Requires Ranged Weapon</span><div class=\"q\">An aimed shot that increases ranged damage by 70.</div></td></tr></table>",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -326,6 +349,7 @@
       },
       {
         "fieldName": "improvedSerpentSting",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -341,6 +365,7 @@
       },
       {
         "fieldName": "mortalShots",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -360,6 +385,7 @@
       },
       {
         "fieldName": "scatterShot",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 0
@@ -371,6 +397,7 @@
       },
       {
         "fieldName": "barrage",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -384,6 +411,7 @@
       },
       {
         "fieldName": "improvedScorpidSting",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -397,6 +425,7 @@
       },
       {
         "fieldName": "rangedWeaponSpecialization",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -412,6 +441,7 @@
       },
       {
         "fieldName": "trueshotAura",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
@@ -433,6 +463,7 @@
     "talents": [
       {
         "fieldName": "monsterSlaying",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 0
@@ -446,6 +477,7 @@
       },
       {
         "fieldName": "humanoidSlaying",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -459,6 +491,7 @@
       },
       {
         "fieldName": "deflection",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -474,6 +507,7 @@
       },
       {
         "fieldName": "entrapment",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -489,6 +523,7 @@
       },
       {
         "fieldName": "savageStrikes",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -501,6 +536,7 @@
       },
       {
         "fieldName": "improvedWingClip",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -516,6 +552,7 @@
       },
       {
         "fieldName": "cleverTraps",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
@@ -528,6 +565,7 @@
       },
       {
         "fieldName": "survivalist",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -543,6 +581,7 @@
       },
       {
         "fieldName": "deterrence",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
@@ -554,6 +593,7 @@
       },
       {
         "fieldName": "trapMastery",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
@@ -566,6 +606,7 @@
       },
       {
         "fieldName": "surefooted",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -579,6 +620,7 @@
       },
       {
         "fieldName": "improvedFeignDeath",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 3,
           "colIdx": 3
@@ -591,6 +633,7 @@
       },
       {
         "fieldName": "killerInstinct",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 1
@@ -604,6 +647,7 @@
       },
       {
         "fieldName": "counterattack",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
@@ -619,6 +663,7 @@
       },
       {
         "fieldName": "lightningReflexes",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -634,6 +679,7 @@
       },
       {
         "fieldName": "wyvernSting",
+        "fieldDesc": "",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
