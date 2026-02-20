@@ -49,7 +49,7 @@ func (hunter *Hunter) getSteadyShotConfig(rank int) core.SpellConfig {
 
 		CritDamageBonus: hunter.mortalShots(),
 
-		DamageMultiplier: 1,
+		DamageMultiplier: 1 + 0.075*float64(hunter.Talents.ImprovedSteadyShot),
 		ThreatMultiplier: 1,
 		BonusCoefficient: 1,
 

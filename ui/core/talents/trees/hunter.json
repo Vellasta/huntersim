@@ -274,18 +274,18 @@
         "maxPoints": 5
       },
       {
-        "fieldName": "improvedHuntersMark",
+        "fieldName": "improvedStings",
         "fieldDesc": "",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
         },
         "spellIds": [
-          19421,
-          19422,
-          19423,
-          19424,
-          19425
+          19464,
+          19465,
+          19466,
+          19467,
+          19468
         ],
         "maxPoints": 5
       },
@@ -348,20 +348,18 @@
         "maxPoints": 1
       },
       {
-        "fieldName": "improvedSerpentSting",
+        "fieldName": "improvedHuntersMark",
         "fieldDesc": "",
         "location": {
           "rowIdx": 3,
-          "colIdx": 1
+          "colIdx": 0
         },
         "spellIds": [
-          19464,
-          19465,
-          19466,
-          19467,
-          19468
+          19421,
+          19422,
+          19423
         ],
-        "maxPoints": 5
+        "maxPoints": 3
       },
       {
         "fieldName": "mortalShots",
@@ -381,6 +379,23 @@
         "prereqLocation": {
           "rowIdx": 1,
           "colIdx": 2
+        }
+      },
+      {
+        "fieldName": "improvedSteadyShot",
+        "fieldDesc": "",
+        "location": {
+          "rowIdx": 3,
+          "colIdx": 3
+        },
+        "spellIds": [
+          51515,
+          51516
+        ],
+        "maxPoints": 2,
+        "prereqLocation": {
+          "rowIdx": 2,
+          "colIdx": 3
         }
       },
       {

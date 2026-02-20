@@ -360,7 +360,11 @@ class TalentPicker<TalentsProto> extends Component {
 		this.pointsDisplay.classList.add('talent-picker-points');
 		this.rootElem.appendChild(this.pointsDisplay);
 
-		this.instance = tippy(this.rootElem, { content: `Rank ${this.getPoints()}/${this.config.maxPoints}\n${String(this.config.fieldDesc)}`, allowHTML: true, hideOnClick: false});
+		this.instance = tippy(this.rootElem, { 
+			content: `Rank ${this.getPoints()}/${this.config.maxPoints}\n${String(this.config.fieldDesc)}`, 
+			allowHTML: true, 
+			hideOnClick: false
+		});
 
 		this.rootElem.addEventListener('click', event => {
 			event.preventDefault();
