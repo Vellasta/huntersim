@@ -28,34 +28,36 @@ message HunterTalents {
 	int32 improved_stings = 19;
 	int32 lethal_shots = 20;
 	int32 hawk_eye = 21;
-	int32 improved_arcane_shot = 22;
+	int32 improved_scorpid_sting = 22;
 	bool steady_shot = 23;
 	int32 improved_hunters_mark = 24;
-	int32 mortal_shots = 25;
-	int32 improved_steady_shot = 26;
+	int32 swiftshot = 25;
+	int32 mortal_shots = 26;
 	bool scatter_shot = 27;
 	int32 barrage = 28;
-	int32 improved_scorpid_sting = 29;
-	int32 ranged_weapon_specialization = 30;
-	bool trueshot_aura = 31;
+	int32 piercing_shots = 29;
+	int32 improved_steady_shot = 30;
+	int32 endless_quiver = 31;
+	int32 ranged_weapon_specialization = 32;
+	bool trueshot_aura = 33;
 
 	// Survival
-	int32 monster_slaying = 32;
-	int32 humanoid_slaying = 33;
-	int32 deflection = 34;
-	int32 entrapment = 35;
-	int32 savage_strikes = 36;
-	int32 improved_wing_clip = 37;
-	int32 clever_traps = 38;
-	int32 survivalist = 39;
-	bool deterrence = 40;
-	int32 trap_mastery = 41;
-	int32 surefooted = 42;
-	int32 improved_feign_death = 43;
-	int32 killer_instinct = 44;
-	bool counterattack = 45;
-	int32 lightning_reflexes = 46;
-	bool wyvern_sting = 47;
+	int32 monster_slaying = 34;
+	int32 humanoid_slaying = 35;
+	int32 deflection = 36;
+	int32 entrapment = 37;
+	int32 savage_strikes = 38;
+	int32 improved_wing_clip = 39;
+	int32 clever_traps = 40;
+	int32 survivalist = 41;
+	bool deterrence = 42;
+	int32 trap_mastery = 43;
+	int32 surefooted = 44;
+	int32 improved_feign_death = 45;
+	int32 killer_instinct = 46;
+	bool counterattack = 47;
+	int32 lightning_reflexes = 48;
+	bool wyvern_sting = 49;
 }
 
 message Hunter {

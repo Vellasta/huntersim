@@ -243,7 +243,7 @@
     "talents": [
       {
         "fieldName": "improvedConcussiveShot",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Improved Concussive Shot</b></a></td></tr></table><table><tr><td><div class=\"q\">Gives your Concussive Shot a [4/8/12/16/20]% chance to stun the target for 3 sec.</div></td></tr></table>",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
@@ -259,7 +259,7 @@
       },
       {
         "fieldName": "efficiency",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Efficiency</b></a></td></tr></table><table><tr><td><div class=\"q\">Reduces the Mana cost of your Shots and Stings by [2/4/6/8/10]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
@@ -275,7 +275,7 @@
       },
       {
         "fieldName": "improvedStings",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Improved Stings</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases the damage done by your Serpent Sting by [6/12/18/24/30]% and increases the mana drained by Viper Sting by [1/2/3/4/5]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -291,7 +291,7 @@
       },
       {
         "fieldName": "lethalShots",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Lethal Shots</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases your critical strike chance with ranged weapons by [1/2/3/4/5]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -307,37 +307,33 @@
       },
       {
         "fieldName": "hawkEye",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Hawk Eye</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases the range of your ranged weapons by [3/6] yards.</div></td></tr></table>",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
         },
         "spellIds": [
           19498,
-          19499,
-          19500
+          19499
         ],
-        "maxPoints": 3
+        "maxPoints": 2
       },
       {
-        "fieldName": "improvedArcaneShot",
-        "fieldDesc": "",
+        "fieldName": "improvedScorpidSting",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Improved Scorpid Sting</b></a></td></tr></table><table><tr><td><div class=\"q\">Scorpid Sting reduces enemy attack speed by an additional [5/10]% and reduces their damage done by an additional [1/2]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
         },
         "spellIds": [
-          19454,
-          19455,
-          19456,
-          19457,
-          19458
+          19491,
+          19493
         ],
-        "maxPoints": 5
+        "maxPoints": 2
       },
       {
         "fieldName": "steadyShot",
-        "fieldDesc": "<table><tr><td><table width=\"100%\"><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19434/aimed-shot\"><b class=\"whtt-name\">Aimed Shot</b></a></td><th><b class=\"q0\">Rank 1</b></th></tr></table><div class=\"q0\">Talent</div><table width=\"100%\"><tr><td>75 Mana</td><th>8 - 35 yd range</th></tr></table><table width=\"100%\"><tr><td>3 sec cast</td><th>6 sec cooldown</th></tr></table><div class=\"wowhead-tooltip-requirements\">Requires Hunter</div></td></tr></table><table><tr><td><span class=\"wowhead-tooltip-requirements\">Requires Ranged Weapon</span><div class=\"q\">An aimed shot that increases ranged damage by 70.</div></td></tr></table>",
+        "fieldDesc": "<table><tr><td><table width=\"100%\"><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19434/aimed-shot\"><b class=\"whtt-name\">Steady Shot</b></a></td><th><b class=\"q0\">Rank 1</b></th></tr></table><div class=\"q0\">Talent</div><table width=\"100%\"><tr><td>5% Base Mana</td><th>8 - 35 yd range</th></tr></table><table width=\"100%\"><tr><td>1 sec cast</td></tr></table><div class=\"wowhead-tooltip-requirements\">Requires Hunter</div></td></tr></table><table><tr><td><span class=\"wowhead-tooltip-requirements\">Requires Ranged Weapon</span><div class=\"q\">A precise shot with a ranged weapon that strikes the target for 60% weapon damage plus an additional 10 damage.</div></td></tr></table>",
         "location": {
           "rowIdx": 2,
           "colIdx": 3
@@ -349,7 +345,7 @@
       },
       {
         "fieldName": "improvedHuntersMark",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Improved Hunter's Mark</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases the Ranged Attack Power bonus of your Hunter's Mark spell by [5/10/15]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
@@ -362,8 +358,22 @@
         "maxPoints": 3
       },
       {
+        "fieldName": "swiftshot",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Swiftshot</b></a></td></tr></table><table><tr><td><div class=\"q\">Reduces the cooldown of your Arcane Shot and Aimed Shot by [0.3/0.6/1] sec.</div></td></tr></table>",
+        "location": {
+          "rowIdx": 3,
+          "colIdx": 1
+        },
+        "spellIds": [
+          19454,
+          19455,
+          19456
+        ],
+        "maxPoints": 3
+      },
+      {
         "fieldName": "mortalShots",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Mortal Shots</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases your ranged weapon critical strike damage bonus by [6/12/18/24/30]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 3,
           "colIdx": 2
@@ -382,10 +392,53 @@
         }
       },
       {
-        "fieldName": "improvedSteadyShot",
-        "fieldDesc": "",
+        "fieldName": "scatterShot",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19503/scatter-shot\"><b class=\"whtt-name\">Scatter Shot</b></a><div class=\"q0\">Talent</div><table width=\"100%\"><tr><td>8% of base mana</td><th>15 yd range</th></tr></table><!--cooldownText-->30 sec cooldown<!--cooldownText--><!--baseCooldown:30 sec cooldown--><div class=\"wowhead-tooltip-requirements\">Requires Hunter</div></td></tr></table><table><tr><td><span class=\"wowhead-tooltip-requirements\">Requires Ranged Weapon</span><div class=\"q\">A short-range shot that deals 50% weapon damage and disorients the target for 4 sec. &nbsp;Any damage caused will remove the effect. &nbsp;Turns off your attack when used.</div></td></tr></table>",
         "location": {
+          "rowIdx": 4,
+          "colIdx": 0
+        },
+        "spellIds": [
+          19503
+        ],
+        "maxPoints": 1
+      },
+      {
+        "fieldName": "barrage",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Barrage</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases the damage done by your Multi-Shot and Volley spells by [5/10/15]%.</div></td></tr></table>",
+        "location": {
+          "rowIdx": 4,
+          "colIdx": 1
+        },
+        "spellIds": [
+          19461,
+          19462,
+          24691
+        ],
+        "maxPoints": 3
+      },
+      {
+        "fieldName": "piercingShots",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Piercing Shots</b></a></td></tr></table><table><tr><td><div class=\"q\">Your critical strikes from Multi-Shot, Steady Shot and Aimed Shot cause the target to bleed, dealing [15/30]% of the damage over 8 sec. This damage generates no threat.</div></td></tr></table>",
+        "location": {
+          "rowIdx": 4,
+          "colIdx": 2
+        },
+        "spellIds": [
+          51512,
+          51513
+        ],
+        "maxPoints": 2,
+        "prereqLocation": {
           "rowIdx": 3,
+          "colIdx": 2
+        }
+      },
+      {
+        "fieldName": "improvedSteadyShot",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Improved Steady Shot</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases the damage done by your Steady Shot by [8/15]%.</div></td></tr></table>",
+        "location": {
+          "rowIdx": 4,
           "colIdx": 3
         },
         "spellIds": [
@@ -399,48 +452,21 @@
         }
       },
       {
-        "fieldName": "scatterShot",
-        "fieldDesc": "",
+        "fieldName": "endlessQuiver",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Endless Quiver</b></a></td></tr></table><table><tr><td><div class=\"q\">Your Auto Shot, Arcane Shot, Steady Shot and Multi-Shot have a [3/6]% chance to fire an additional normal ranged attack. This additional shot does not spend ammo.</div></td></tr></table>",
         "location": {
-          "rowIdx": 4,
+          "rowIdx": 5,
           "colIdx": 0
         },
         "spellIds": [
-          19503
+          51517,
+          51518
         ],
-        "maxPoints": 1
-      },
-      {
-        "fieldName": "barrage",
-        "fieldDesc": "",
-        "location": {
-          "rowIdx": 4,
-          "colIdx": 1
-        },
-        "spellIds": [
-          19461,
-          19462,
-          24691
-        ],
-        "maxPoints": 3
-      },
-      {
-        "fieldName": "improvedScorpidSting",
-        "fieldDesc": "",
-        "location": {
-          "rowIdx": 4,
-          "colIdx": 2
-        },
-        "spellIds": [
-          19491,
-          19493,
-          19494
-        ],
-        "maxPoints": 3
+        "maxPoints": 2
       },
       {
         "fieldName": "rangedWeaponSpecialization",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Ranged Weapon Specialization</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases the damage you deal with ranged weapons by [1/2/3/4/5]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -456,7 +482,7 @@
       },
       {
         "fieldName": "trueshotAura",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Trueshot Aura</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases the attack power of party members within 45 yards by 3%, plus an additional 30. The aura lasts until cancelled.</div></td></tr></table>",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
