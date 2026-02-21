@@ -48,7 +48,7 @@ func (hunter *Hunter) applyPiercingShots() {
 	core.MakePermanent(hunter.RegisterAura(core.Aura{
 		Label: "Piercing Shots Talent",
 		OnSpellHitDealt: func(aura *core.Aura, sim *core.Simulation, spell *core.Spell, result *core.SpellResult) {
-			if spell.ProcMask.Matches(core.ProcMaskEmpty) || !spell.SpellSchool.Matches(core.SpellSchoolPhysical) || spell.ProcMask.Matches(core.ProcMaskRangedAuto) {
+			if spell.ProcMask.Matches(core.ProcMaskEmpty) || !(spell.SpellCode == SpellCode_HunterSteadyShot || spell.SpellCode == SpellCode_HunterMultiShot || spell.SpellCode == SpellCode_HunterAimedShot) {
 				return
 			}
 

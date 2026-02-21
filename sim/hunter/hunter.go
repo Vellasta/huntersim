@@ -27,6 +27,7 @@ const (
 	SpellCode_HunterArcaneShot
 	SpellCode_HunterMultiShot
 	SpellCode_HunterPiercingShots
+	SpellCode_HunterEndlessQuiver
 
 	// Strikes
 	SpellCode_HunterRaptorStrike
@@ -92,6 +93,7 @@ type Hunter struct {
 	AimedShot       *core.Spell
 	ArcaneShot      *core.Spell
 	PiercingShots   *core.Spell
+	EndlessQuiver   *core.Spell
 	ExplosiveTrap   *core.Spell
 	ImmolationTrap  *core.Spell
 	FreezingTrap    *core.Spell
