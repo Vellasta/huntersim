@@ -36,7 +36,7 @@ export const BlessingOfKings = withLabel(
 	makeBooleanIndividualBuffInput({
 		actionId: () => ActionId.fromSpellId(20217),
 		fieldName: 'blessingOfKings',
-		showWhen: player => player.getFaction() === Faction.Alliance,
+		showWhen: player => true, // player.getFaction() === Faction.Alliance,
 	}),
 	'Blessing of Kings',
 );
@@ -45,7 +45,7 @@ export const ArmorBuff = withLabel(
 	makeTristateRaidBuffInput({
 		actionId: () => ActionId.fromSpellId(10293),
 		impId: ActionId.fromSpellId(20142),
-		showWhen: player => player.getFaction() === Faction.Alliance,
+		showWhen: player => true, // player.getFaction() === Faction.Alliance,
 		fieldName: 'devotionAura',
 	}),
 	'Devotion Aura',
@@ -55,7 +55,7 @@ export const PhysDamReductionBuff = withLabel(
 	makeTristateRaidBuffInput({
 		actionId: () => ActionId.fromSpellId(10408),
 		impId: ActionId.fromSpellId(16293),
-		showWhen: player => player.getFaction() === Faction.Horde,
+		showWhen: player => true, // player.getFaction() === Faction.Horde,
 		fieldName: 'stoneskinTotem',
 	}),
 	'Stoneskin',
@@ -91,7 +91,7 @@ export const ResistanceBuff = InputHelpers.makeMultiIconInput({
 		makeBooleanRaidBuffInput({
 			actionId: () => ActionId.fromSpellId(10601),
 			fieldName: 'natureResistanceTotem',
-			showWhen: player => player.getFaction() === Faction.Horde,
+			showWhen: player => true, // player.getFaction() === Faction.Horde,
 		}),
 		makeBooleanRaidBuffInput({
 			actionId: () => ActionId.fromSpellId(20190),
@@ -101,23 +101,23 @@ export const ResistanceBuff = InputHelpers.makeMultiIconInput({
 		makeBooleanRaidBuffInput({
 			actionId: () => ActionId.fromSpellId(19900),
 			fieldName: 'fireResistanceAura',
-			showWhen: player => player.getFaction() === Faction.Alliance,
+			showWhen: player => true, // player.getFaction() === Faction.Alliance,
 		}),
 		makeBooleanRaidBuffInput({
 			actionId: () => ActionId.fromSpellId(10538),
 			fieldName: 'fireResistanceTotem',
-			showWhen: player => player.getFaction() === Faction.Horde,
+			showWhen: player => true, // player.getFaction() === Faction.Horde,
 		}),
 		// Frost
 		makeBooleanRaidBuffInput({
 			actionId: () => ActionId.fromSpellId(19898),
 			fieldName: 'frostResistanceAura',
-			showWhen: player => player.getFaction() === Faction.Alliance,
+			showWhen: player => true, // player.getFaction() === Faction.Alliance,
 		}),
 		makeBooleanRaidBuffInput({
 			actionId: () => ActionId.fromSpellId(10479),
 			fieldName: 'frostResistanceTotem',
-			showWhen: player => player.getFaction() === Faction.Horde,
+			showWhen: player => true, // player.getFaction() === Faction.Horde,
 		}),
 	],
 	label: 'Resistances',
@@ -152,7 +152,7 @@ export const BlessingOfMight = withLabel(
 		actionId: () => ActionId.fromSpellId(25291),
 		impId: ActionId.fromSpellId(20048),
 		fieldName: 'blessingOfMight',
-		showWhen: player => player.getFaction() === Faction.Alliance,
+		showWhen: player => true, // player.getFaction() === Faction.Alliance,
 	}),
 	'Blessing of Might',
 );
@@ -162,7 +162,7 @@ export const StrengthBuffHorde = withLabel(
 		actionId: () => ActionId.fromSpellId(25361),
 		impId: ActionId.fromSpellId(16295),
 		fieldName: 'strengthOfEarthTotem',
-		showWhen: player => player.getFaction() === Faction.Horde,
+		showWhen: player => true, // player.getFaction() === Faction.Horde,
 	}),
 	'Strength',
 );
@@ -172,7 +172,7 @@ export const GraceOfAir = withLabel(
 		actionId: () => ActionId.fromSpellId(25359),
 		impId: ActionId.fromSpellId(16295),
 		fieldName: 'graceOfAirTotem',
-		showWhen: player => player.getFaction() === Faction.Horde,
+		showWhen: player => true, // player.getFaction() === Faction.Horde,
 	}),
 	'Agility',
 );
@@ -227,7 +227,7 @@ export const BlessingOfWisdom = withLabel(
 		actionId: () => ActionId.fromSpellId(25290),
 		impId: ActionId.fromSpellId(20245),
 		fieldName: 'blessingOfWisdom',
-		showWhen: player => player.getFaction() === Faction.Alliance,
+		showWhen: player => true, // player.getFaction() === Faction.Alliance,
 	}),
 	'Blessing of Wisdom',
 );
@@ -236,7 +236,7 @@ export const ManaSpringTotem = withLabel(
 		actionId: () => ActionId.fromSpellId(10497),
 		impId: ActionId.fromSpellId(16208),
 		fieldName: 'manaSpringTotem',
-		showWhen: player => player.getFaction() === Faction.Horde,
+		showWhen: player => true, // player.getFaction() === Faction.Horde,
 	}),
 	'Mana Spring Totem',
 );
@@ -274,13 +274,13 @@ export const RetributionAura = makeTristateRaidBuffInput({
 	actionId: () => ActionId.fromSpellId(10301),
 	impId: ActionId.fromSpellId(20092),
 	fieldName: 'retributionAura',
-	showWhen: player => player.getFaction() === Faction.Alliance,
+	showWhen: player => true, // player.getFaction() === Faction.Alliance,
 });
 
 export const SanctityAura = makeBooleanRaidBuffInput({
 	actionId: () => ActionId.fromSpellId(20218),
 	fieldName: 'sanctityAura',
-	showWhen: player => player.getFaction() === Faction.Alliance,
+	showWhen: player => true, // player.getFaction() === Faction.Alliance,
 });
 
 export const Thorns = makeTristateRaidBuffInput({
@@ -530,7 +530,7 @@ export const JudgementOfWisdom = withLabel(
 	makeBooleanDebuffInput({
 		actionId: () => ActionId.fromSpellId(20355),
 		fieldName: 'judgementOfWisdom',
-		showWhen: player => player.getFaction() === Faction.Alliance,
+		showWhen: player => true, // player.getFaction() === Faction.Alliance,
 	}),
 	'Judgement of Wisdom',
 );
@@ -539,7 +539,7 @@ export const JudgementOfTheCrusader = withLabel(
 		actionId: () => ActionId.fromSpellId(20303),
 		impId: ActionId.fromSpellId(20337),
 		fieldName: 'judgementOfTheCrusader',
-		showWhen: player => player.getFaction() === Faction.Alliance,
+		showWhen: player => true, // player.getFaction() === Faction.Alliance,
 	}),
 	'Judgement of the Crusader',
 );
@@ -548,7 +548,7 @@ export const JudgementOfTheCrusader = withLabel(
 export const JudgementOfLight = makeBooleanDebuffInput({
 	actionId: () => ActionId.fromSpellId(20346),
 	fieldName: 'judgementOfLight',
-	showWhen: player => player.getFaction() === Faction.Alliance,
+	showWhen: player => true, // player.getFaction() === Faction.Alliance,
 });
 export const GiftOfArthas = makeBooleanDebuffInput({
 	actionId: () => ActionId.fromSpellId(11374),
