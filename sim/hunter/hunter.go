@@ -26,6 +26,7 @@ const (
 	SpellCode_HunterAimedShot
 	SpellCode_HunterArcaneShot
 	SpellCode_HunterMultiShot
+	SpellCode_HunterPiercingShots
 
 	// Strikes
 	SpellCode_HunterRaptorStrike
@@ -87,9 +88,10 @@ type Hunter struct {
 	curQueueAura       *core.Aura
 	curQueuedAutoSpell *core.Spell
 
-	SteadyShot 		*core.Spell
+	SteadyShot      *core.Spell
 	AimedShot       *core.Spell
 	ArcaneShot      *core.Spell
+	PiercingShots   *core.Spell
 	ExplosiveTrap   *core.Spell
 	ImmolationTrap  *core.Spell
 	FreezingTrap    *core.Spell

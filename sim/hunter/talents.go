@@ -91,6 +91,7 @@ func (hunter *Hunter) ApplyTalents() {
 	hunter.applyEfficiency()
 	hunter.applyTrapMastery()
 	hunter.applyCleverTraps()
+	hunter.applyPiercingShots()
 }
 
 func (hunter *Hunter) applyFrenzy() {
