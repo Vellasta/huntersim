@@ -889,6 +889,12 @@ export class Player<SpecType extends Spec> {
 
 		this.talentsString = newTalentsString;
 		this.talents = null;
+		const maxInd = getTalentTree(this.talentsString);
+		if (maxInd == 2) {
+			this.setDistanceFromTarget(eventID, 5);
+		} else {
+			this.setDistanceFromTarget(eventID, 12);
+		}
 		this.talentsChangeEmitter.emit(eventID);
 	}
 
