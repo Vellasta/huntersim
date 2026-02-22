@@ -503,52 +503,51 @@
     "backgroundUrl": "https://wow.zamimg.com/images/wow/talents/backgrounds/classic/362.jpg",
     "talents": [
       {
-        "fieldName": "monsterSlaying",
-        "fieldDesc": "",
+        "fieldName": "improvedSlaying",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Improved Slaying</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases all damage caused against Beasts, Giants, Dragonkin, and Humanoid targets by [1/2/3]% and increases critical damage caused against Beasts, Giants, Dragonkin, and Humanoid targets by an additional [1/2/3]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 0,
           "colIdx": 0
         },
         "spellIds": [
-          24293,
-          24294,
-          24295
+          45977,
+          45978,
+          45979
         ],
         "maxPoints": 3
       },
       {
-        "fieldName": "humanoidSlaying",
-        "fieldDesc": "",
+        "fieldName": "resourcefulness",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Resourcefulness</b></a></td></tr></table><table><tr><td><div class=\"q\">Reduces the Mana cost of all traps and melee abilities by [2/4/6/8/10]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 0,
           "colIdx": 1
         },
         "spellIds": [
-          19151,
-          19152,
-          19153
+          51570,
+          51571,
+          51572,
+          51573,
+          51574
         ],
-        "maxPoints": 3
+        "maxPoints": 5
       },
       {
-        "fieldName": "deflection",
-        "fieldDesc": "",
+        "fieldName": "swiftReflexes",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Swift Reflexes</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases your Parry chance and attack speed by [1/2]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 0,
           "colIdx": 2
         },
         "spellIds": [
           19295,
-          19297,
-          19298,
-          19300,
-          19301
+          19297
         ],
-        "maxPoints": 5
+        "maxPoints": 2
       },
       {
         "fieldName": "entrapment",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Entrapment</b></a></td></tr></table><table><tr><td><div class=\"q\">Gives your Immolation Trap, Frost Trap, and Explosive Trap a [8/16/25]% chance to entrap the target, preventing them from moving for 5 sec.</div></td></tr></table>",
         "location": {
           "rowIdx": 1,
           "colIdx": 0
@@ -556,15 +555,13 @@
         "spellIds": [
           19184,
           19387,
-          19388,
-          19389,
-          19390
+          19388
         ],
-        "maxPoints": 5
+        "maxPoints": 3
       },
       {
         "fieldName": "savageStrikes",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Savage Strikes</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases the damage done by your offhand weapon by [13/25]% and the critical strike chance of your Lacerate, Raptor Strike, Mongoose Bite, Carve and Wing Clip abilities by [3/6]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 1,
           "colIdx": 1
@@ -577,7 +574,7 @@
       },
       {
         "fieldName": "improvedWingClip",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Improved Wing Clip</b></a></td></tr></table><table><tr><td><div class=\"q\">Gives your Wing Clip ability a [14/28/40]% chance to immobilize the target for 5 sec.</div></td></tr></table>",
         "location": {
           "rowIdx": 1,
           "colIdx": 2
@@ -585,28 +582,26 @@
         "spellIds": [
           19228,
           19232,
-          19233,
-          19234,
-          19235
+          19233
         ],
-        "maxPoints": 5
+        "maxPoints": 3
       },
       {
-        "fieldName": "cleverTraps",
-        "fieldDesc": "",
+        "fieldName": "planningAhead",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Planning Ahead</b></a></td></tr></table><table><tr><td><div class=\"q\">The duration of Freezing and Frost Trap effects and the damage of Immolation and Explosive Trap effects are increased by [13/25]% if the traps are not triggered within the first 5 sec after being placed.</div></td></tr></table>",
         "location": {
           "rowIdx": 2,
           "colIdx": 0
         },
         "spellIds": [
-          19239,
-          19245
+          51576,
+          51577
         ],
         "maxPoints": 2
       },
       {
         "fieldName": "survivalist",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Survivalist</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases total health by [2/4/6/8/10]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 2,
           "colIdx": 1
@@ -621,11 +616,23 @@
         "maxPoints": 5
       },
       {
-        "fieldName": "deterrence",
-        "fieldDesc": "",
+        "fieldName": "carve",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Carve</b></a></td></tr></table><table><tr><td><div class=\"q\">A sweeping attack that strikes up to 5 enemies in a 10 yard cone in front of you, dealing 60% weapon damage. This ability shares a cooldown with Multi-Shot.</div></td></tr></table>",
         "location": {
           "rowIdx": 2,
           "colIdx": 2
+        },
+        "spellIds": [
+          51575
+        ],
+        "maxPoints": 1
+      },
+      {
+        "fieldName": "deterrence",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Deterrence</b></a></td></tr></table><table><tr><td><div class=\"q\">When activated, increases your Dodge and Parry chance by 25% for 10 sec.</div></td></tr></table>",
+        "location": {
+          "rowIdx": 2,
+          "colIdx": 3
         },
         "spellIds": [
           19263
@@ -633,21 +640,21 @@
         "maxPoints": 1
       },
       {
-        "fieldName": "trapMastery",
-        "fieldDesc": "",
+        "fieldName": "stingingNettle",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Stinging Nettle</b></a></td></tr></table><table><tr><td><div class=\"q\">Your Mongoose Bite and triggered Fire traps now apply your highest rank of Serpent Sting for [20/40]% of the duration. Serpent Stings applied this way ignore resistances and immunities.</div></td></tr></table>",
         "location": {
           "rowIdx": 3,
           "colIdx": 0
         },
         "spellIds": [
-          19376,
-          19377
+          51579,
+          51580
         ],
         "maxPoints": 2
       },
       {
         "fieldName": "surefooted",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Surefooted</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases hit chance by [1/2/3]% and increases the chance movement impairing effects will be resisted by an additional [5/10/15]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 3,
           "colIdx": 1
@@ -661,7 +668,7 @@
       },
       {
         "fieldName": "improvedFeignDeath",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Improved Feign Death</b></a></td></tr></table><table><tr><td><div class=\"q\">Reduces the chance your Feign Death ability will be resisted by [4/8]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 3,
           "colIdx": 3
@@ -674,10 +681,10 @@
       },
       {
         "fieldName": "killerInstinct",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Killer Instinct</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases your critical strike chance with all attacks by [1/2/3]%, increases your melee critical strike damage bonus by [7/14/20]%.</div></td></tr></table>",
         "location": {
           "rowIdx": 4,
-          "colIdx": 1
+          "colIdx": 0
         },
         "spellIds": [
           19370,
@@ -687,14 +694,28 @@
         "maxPoints": 3
       },
       {
-        "fieldName": "counterattack",
-        "fieldDesc": "",
+        "fieldName": "trapMastery",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Trap Mastery</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases the duration of Freezing and Frost Trap effects by [10/20/30]% and the damage of Immolation and Explosive Trap effects by [10/20/30]%. In addition, reduces the chance that enemies will resist trap effects by [4/7/10]%.</div></td></tr></table>",
+        "location": {
+          "rowIdx": 4,
+          "colIdx": 1
+        },
+        "spellIds": [
+          19376,
+          19377,
+          51581
+        ],
+        "maxPoints": 3
+      },
+      {
+        "fieldName": "lacerate",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Lacerate</b></a></td></tr></table><table><tr><td><div class=\"q\">Deepen your target's open wound, dealing damage equal to 35% of your melee Attack Power and bleeding them for 20% of the damage over 8 sec. Can only be used after critically striking your target. Using this ability from the sides of your target increases its damage by 10% and causes the bleed to deal its total damage 100% faster.</div></td></tr></table>",
         "location": {
           "rowIdx": 4,
           "colIdx": 2
         },
         "spellIds": [
-          19306
+          48049
         ],
         "maxPoints": 1,
         "prereqLocation": {
@@ -703,8 +724,21 @@
         }
       },
       {
+        "fieldName": "viciousStrikes",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Vicious Strikes</b></a></td></tr></table><table><tr><td><div class=\"q\">Reduces the cooldown of your Raptor Strike and Mongoose Bite abilities by [0.5/1] sec.</div></td></tr></table>",
+        "location": {
+          "rowIdx": 5,
+          "colIdx": 0
+        },
+        "spellIds": [
+          51584,
+          51585
+        ],
+        "maxPoints": 2
+      },
+      {
         "fieldName": "lightningReflexes",
-        "fieldDesc": "",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Lightning Reflexes</b></a></td></tr></table><table><tr><td><div class=\"q\">Increases your Agility by [2/4/6/8/10]% and increases your melee attack power by an amount equal to [20/40/60/80/100]% of your Agility.</div></td></tr></table>",
         "location": {
           "rowIdx": 5,
           "colIdx": 2
@@ -719,14 +753,14 @@
         "maxPoints": 5
       },
       {
-        "fieldName": "wyvernSting",
-        "fieldDesc": "",
+        "fieldName": "untamedTrapper",
+        "fieldDesc": "<table><tr><td><a class=\"whtt-name\" href=\"/classic/spell=19412/improved-concussive-shot\"><b class=\"whtt-name\">Untamed Trapper</b></a></td></tr></table><table><tr><td><div class=\"q\">Reduces the mana cost of your Immolation Trap and Explosive Trap effects by 20% and increases their damage based on your melee Attack Power. In addition, all traps can be placed while in combat.</div></td></tr></table>",
         "location": {
           "rowIdx": 6,
           "colIdx": 1
         },
         "spellIds": [
-          19386
+          51586
         ],
         "maxPoints": 1,
         "prereqLocation": {

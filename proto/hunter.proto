@@ -42,22 +42,25 @@ message HunterTalents {
 	bool trueshot_aura = 33;
 
 	// Survival
-	int32 monster_slaying = 34;
-	int32 humanoid_slaying = 35;
-	int32 deflection = 36;
+	int32 improved_slaying = 34;
+	int32 resourcefulness = 35;
+	int32 swift_reflexes = 36;
 	int32 entrapment = 37;
 	int32 savage_strikes = 38;
 	int32 improved_wing_clip = 39;
-	int32 clever_traps = 40;
+	int32 planning_ahead = 40;
 	int32 survivalist = 41;
-	bool deterrence = 42;
-	int32 trap_mastery = 43;
-	int32 surefooted = 44;
-	int32 improved_feign_death = 45;
-	int32 killer_instinct = 46;
-	bool counterattack = 47;
-	int32 lightning_reflexes = 48;
-	bool wyvern_sting = 49;
+	bool carve = 42;
+	bool deterrence = 43;
+	int32 stinging_nettle = 44;
+	int32 surefooted = 45;
+	int32 improved_feign_death = 46;
+	int32 killer_instinct = 47;
+	int32 trap_mastery = 48;
+	bool lacerate = 49;
+	int32 vicious_strikes = 50;
+	int32 lightning_reflexes = 51;
+	bool untamed_trapper = 52;
 }
 
 message Hunter {

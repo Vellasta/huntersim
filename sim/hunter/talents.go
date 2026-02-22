@@ -23,18 +23,18 @@ func (hunter *Hunter) ApplyTalents() {
 		}
 	}
 
-	if hunter.Talents.MonsterSlaying+hunter.Talents.HumanoidSlaying > 0 {
+	if hunter.Talents.ImprovedSlaying > 0 {
 		hunter.Env.RegisterPostFinalizeEffect(func() {
 			for _, t := range hunter.Env.Encounter.Targets {
 				switch t.MobType {
 				case proto.MobType_MobTypeHumanoid:
-					multiplier := []float64{1, 1.01, 1.02, 1.03}[hunter.Talents.HumanoidSlaying]
+					multiplier := []float64{1, 1.01, 1.02, 1.03}[hunter.Talents.ImprovedSlaying]
 					for _, at := range hunter.AttackTables[t.UnitIndex] {
 						at.DamageDealtMultiplier *= multiplier
 						at.CritMultiplier *= multiplier
 					}
 				case proto.MobType_MobTypeBeast, proto.MobType_MobTypeGiant, proto.MobType_MobTypeDragonkin:
-					multiplier := []float64{1, 1.01, 1.02, 1.03}[hunter.Talents.MonsterSlaying]
+					multiplier := []float64{1, 1.01, 1.02, 1.03}[hunter.Talents.ImprovedSlaying]
 					for _, at := range hunter.AttackTables[t.UnitIndex] {
 						at.DamageDealtMultiplier *= multiplier
 						at.CritMultiplier *= multiplier
@@ -187,13 +187,13 @@ func (hunter *Hunter) applyTrapMastery() {
 }
 
 func (hunter *Hunter) applyCleverTraps() {
-	if hunter.Talents.CleverTraps == 0 {
+	if hunter.Talents.TrapMastery == 0 {
 		return
 	}
 
 	hunter.OnSpellRegistered(func(spell *core.Spell) {
 		if spell.Flags.Matches(SpellFlagTrap) {
-			spell.DamageMultiplier *= 1 + 0.15*float64(hunter.Talents.CleverTraps)
+			spell.DamageMultiplier *= 1 + 0.1*float64(hunter.Talents.TrapMastery)
 		}
 	})
 }
