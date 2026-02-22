@@ -1,0 +1,1 @@
+import"../../index-CsPe537V.chunk.js";import{S as s,T as e}from"../../detailed_results-DH72-G2A.chunk.js";import{S as n,P as t}from"../../preset_utils-ITjtONda.chunk.js";import{R as o}from"../../sim-qk7p4ncK.chunk.js";const r=new n,a=new t(s.SpecRestorationShaman,r);r.raid.setPlayer(e.nextEventID(),0,a),new o(document.body,a);
